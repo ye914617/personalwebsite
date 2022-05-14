@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/personalwebsite/static/css/main.d31ee6ba.css",
+    "main.js": "/personalwebsite/static/js/main.88549cd1.js",
+    "static/media/fakebook.png": "/personalwebsite/static/media/fakebook.2cd962365a744ff2d272.png",
+    "static/media/calculator.png": "/personalwebsite/static/media/calculator.8c189635861497c15ec5.png",
+    "static/media/galaxy.png": "/personalwebsite/static/media/galaxy.0785e8b613b3d0bb8de5.png",
+    "static/media/bigdata.png": "/personalwebsite/static/media/bigdata.f4ea2e32aa6e1e245ed8.png",
+    "static/media/card.png": "/personalwebsite/static/media/card.82c598ccd3e96f678fd3.png",
+    "index.html": "/personalwebsite/index.html",
+    "main.d31ee6ba.css.map": "/personalwebsite/static/css/main.d31ee6ba.css.map",
+    "main.88549cd1.js.map": "/personalwebsite/static/js/main.88549cd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d31ee6ba.css",
+    "static/js/main.88549cd1.js"
+  ]
+}
